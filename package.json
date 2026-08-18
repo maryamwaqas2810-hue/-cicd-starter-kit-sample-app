@@ -1,0 +1,10 @@
+{
+  "name": "cicd-starter-kit-sample-app",
+  "version": "1.0.0",
+  "description": "Sample app for SafeX CI/CD Starter Kit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  }
+}
